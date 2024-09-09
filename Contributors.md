@@ -141,6 +141,7 @@ rashee
 - KSV
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
+- Bahagia :)
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Kevin Cherian George](https://github.com/kevin-291)
